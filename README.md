@@ -1,6 +1,6 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Ryuahneee)
+
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Ryuahneee&fontColor=d6ace6)
 <br>
 
 <div align="center">
