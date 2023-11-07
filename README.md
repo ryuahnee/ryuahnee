@@ -38,9 +38,11 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea%20IDE&logoColor=white">
 
-<br><br>
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuahnee&layout=compact&theme=tokyonight)
+-->
+
+
 <!--
 **ryuahnee/ryuahnee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
