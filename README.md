@@ -60,11 +60,7 @@
 
 [➡️ 프로젝트 상세보기](https://github.com/ryuahnee/Challenge3Day)<br><br><br>
 
----
 
-## 📞 Contact
-
-ryuahneee@gmail.com
 
 
 
