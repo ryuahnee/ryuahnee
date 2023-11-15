@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/ryuahnee/ryuahnee/assets/135402890/8a2aaff3-9ba9-499f-b0cd-74fb96f0fb21)<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Ryuahneee&fontColor=d6ace6)
 <br>
@@ -37,6 +37,30 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea%20IDE&logoColor=white">
+
+<br><br><br>
+
+
+## ✨ Portfolio
+
+<img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/e8195a20-de20-4235-bec0-cc6c3c2a42d6"> <br>
+###### Spring Boot Project- 감정분석AI기반 나만의 맛집 지도 (23.08 ~ 09)
+
+
+[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/yompro/blob/main/README.md)<br><br><br><br>
+
+<img width="12%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/65cc5734-b83c-45b9-acdf-d5af3c3c02eb"> <br>
+
+###### Spring Boot Project- 게임으로 바둑을 재미있게! 바둑교육 웹사이트 '나도 9단!'(23.09 ~ 10)
+
+[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/metoo9dan_web)<br><br><br><br>
+
+<img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/2e210ad0-1835-42de-93b7-d4502c7c4abd"> <br>
+###### MVC패턴 JSP/Servlet Project- 삼일동안 진행하는 미니멀 챌린지 사이트 (23.06 ~ 08)
+
+[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/Challenge3Day)<br><br><br>
+
+
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuahnee&layout=compact&theme=tokyonight)
