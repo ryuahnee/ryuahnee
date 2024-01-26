@@ -48,9 +48,12 @@
 
   <div align="left">
 
- #### 프로젝트 특징 <br>
-  감정분석 AI : 후기를 남기면 감정분석 AI가 후기를 분석해 점수를 측정 <br>
+  #### 프로젝트 특징 <br>
+ - 감정분석 AI를 이용한 리뷰 문장 분석
+ - 지도와 현 위치 활용
+ - 보안 강화
 
+<br>
     
 #### 프로젝트 개발환경 <br>
    - 언어 : Java(JDK 17), Javascrip,  JPA, Ajax, HTML5/CSS3  
@@ -84,9 +87,10 @@
 
   <div align="left">
 
- #### 프로젝트 특징 <br>
-  감정분석 AI : 후기를 남기면 감정분석 AI가 후기를 분석해 점수를 측정 <br>
-
+  #### 프로젝트 특징 <br>
+ - 기업참여 프로젝트 <br>
+ - 실제 결제 연동
+<br>
     
 #### 프로젝트 개발환경 <br>
    - 언어 : Java(JDK 17), Javascrip,  JPA, Ajax, HTML5/CSS3
@@ -113,8 +117,34 @@
 #### 03. MVC패턴 JSP/Servlet Project- 삼일동안 진행하는 미니멀 챌린지 사이트
 <img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/2e210ad0-1835-42de-93b7-d4502c7c4abd"> <br>
 
+[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/Challenge3Day)
 
-[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/Challenge3Day)<br><br><br>
+<div align="left">
+
+ #### 프로젝트 특징 <br>
+ - 초간단 인증 챌린지 <br>
+ - Scheduler사용으로 상태 자동 처리
+<br>
+
+#### 프로젝트 개발환경 <br>
+   - 언어 : Java(JDK 1.8), Javascrip,  JSP/ Servlet, HTML5/CSS3
+   - 서버 : Apache Tomcat 9.0
+   - DB : MySQL 8.0
+   - API : Scheduler API, Mail API
+   - 협업툴 : Notion
+
+#### 주요 역할 <br>
+  - 1 : 1문의사항 / 마이페이지
+  - Scheduler API
+  - Mail API
+  - DB설계 및 구축
+  - 서비스 기획 및 방향 설정
+
+  </div>
+
+
+
+<br><br><br>
 
 
 
