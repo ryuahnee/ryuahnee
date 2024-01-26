@@ -57,7 +57,8 @@
    - 서버 : Apache Tomcat 9.0, AWS EC2, ubuntu<br>
    - 프레임워크 : Spring Boot 3.0 gradle   
    - DB : MySQL 8.0
-   - API : Spring Security, KaKao Maps API, CLOVA Sentiment API, Scheduler API, Mail API, Thymeleaf 
+   - API : Spring Security, KaKao Maps API, CLOVA Sentiment API, Scheduler API, Mail API, Thymeleaf
+   - 협업툴 : Notion, Git/GitHub 
 
 #### 주요 역할
 
@@ -78,7 +79,37 @@
 
 
 
-[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/metoo9dan_web)<br><br><br><br>
+[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/metoo9dan_web)
+
+
+  <div align="left">
+
+ #### 프로젝트 특징 <br>
+  감정분석 AI : 후기를 남기면 감정분석 AI가 후기를 분석해 점수를 측정 <br>
+
+    
+#### 프로젝트 개발환경 <br>
+   - 언어 : Java(JDK 17), Javascrip,  JPA, Ajax, HTML5/CSS3
+   - 서버 : Apache Tomcat 9.0
+   - 프레임워크 : Spring Boot 3.0 gradle   
+   - DB : MariaDB(10.11.2)
+   - API : Spring Security, KaKao pay API, Scheduler API, Mail API, Thymeleaf
+   - 협업툴 : Notion, Git/GitHub 
+
+#### 주요 역할 <br>
+  - Chart.js - 일,월 별 매출조회
+  - Docker MariaDB서버 구축
+  - Kakao pay API 연동
+  - Session Storage 사용 장바구니 구현
+  - DB설계 및 구축
+  - 기술팀장
+
+  </div>
+
+
+
+
+<br><br><br><br>
 #### 03. MVC패턴 JSP/Servlet Project- 삼일동안 진행하는 미니멀 챌린지 사이트
 <img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/2e210ad0-1835-42de-93b7-d4502c7c4abd"> <br>
 
