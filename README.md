@@ -41,11 +41,14 @@
 <br><br><br>
 
 
-## ✨ Portfolio
-#### 01. Spring Boot Project- 감정분석AI기반 나만의 맛집 지도 <br>
-<img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/e8195a20-de20-4235-bec0-cc6c3c2a42d6"> <br>
-[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/yompro/blob/main/README.md)<br><br><br><br>
+# ✨ Portfolio
 
+
+<br>
+
+###  01. Spring Boot Project<br> : 감정분석AI기반 나만의 맛집 지도
+<img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/e8195a20-de20-4235-bec0-cc6c3c2a42d6"> <br>
+[➡️ 프로젝트 상세보기](https://github.com/ryuahnee/yompro/blob/main/README.md)
   <div align="left">
 
   #### 프로젝트 특징 <br>
@@ -76,14 +79,9 @@
 
 <br><br><br><br>
 
-
-#### 02. Spring Boot Project- 게임으로 바둑을 재미있게! 바둑교육 웹사이트 '나도 9단!'
+### 02. Spring Boot Project<br> : 게임으로 바둑을 재미있게! 바둑교육 웹사이트 '나도 9단!'
 <img width="12%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/65cc5734-b83c-45b9-acdf-d5af3c3c02eb"> <br>
-
-
-
 [➡️ 프로젝트 상세보기](https://github.com/ryuahnee/metoo9dan_web)
-
 
   <div align="left">
 
@@ -110,13 +108,9 @@
 
   </div>
 
-
-
-
 <br><br><br><br>
-#### 03. MVC패턴 JSP/Servlet Project- 삼일동안 진행하는 미니멀 챌린지 사이트
+### 03. MVC패턴 JSP/Servlet Project<br> : 미니멀 챌린지 웹 사이트
 <img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/2e210ad0-1835-42de-93b7-d4502c7c4abd"> <br>
-
 [➡️ 프로젝트 상세보기](https://github.com/ryuahnee/Challenge3Day)
 
 <div align="left">
