@@ -139,8 +139,9 @@
 
 <br><br><br>
 
-
-
+## 📫 Contact Me
+- Email: ryuahneee@gmail.com
+- Blog: [https://ryusss.tistory.com](https://ryusss.tistory.com)
 
 
 <!--
