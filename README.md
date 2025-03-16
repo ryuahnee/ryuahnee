@@ -5,8 +5,6 @@
 
 <div align="center">
   
-✨welcome my portfolio✨
-
 
 
 </div>
