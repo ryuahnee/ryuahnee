@@ -11,8 +11,7 @@
 
  ✨ Technical Summary
 ```
-💻 Java/Spring 생태계 기반 백엔드 개발자
-📊 복잡한 비즈니스 로직 구현과 대용량 데이터 처리 경험
+💻 Java/Spring 백엔드 개발자
 ```
 <br>
 
