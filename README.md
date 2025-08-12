@@ -123,6 +123,7 @@
 
 <br><br><br><br>
 ### 03. MVC패턴 JSP/Servlet Project<br> : 미니멀 챌린지 웹 사이트
+(챌린저스 플랫폼을 참고한 미니멀 버전 구현)<br>
 <img width="10%" alt="image" src="https://github.com/ryuahnee/ryuahnee/assets/135402890/2e210ad0-1835-42de-93b7-d4502c7c4abd"> <br>
 👉 [프로젝트 상세보기](https://github.com/ryuahnee/Challenge3Day)
 
