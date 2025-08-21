@@ -6,15 +6,6 @@
 <div align="center">
   
 
-
-</div>
-
- ✨ Technical Summary
-```
-💻 Java/Spring 백엔드 개발자
-```
-<br>
-
 ## 🛠️ Backend Skills
 
 **Core**
